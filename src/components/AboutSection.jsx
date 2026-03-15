@@ -30,12 +30,12 @@ export const AboutSection = () => {
               </a>
 
               <a
-                  href="/JevaughnStewartResume.pdf"
-                  download="Jevaughn-Stewart-Resume.pdf"
-                  className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
-                >
-                  Download Resume
-                </a>
+                href="/Jascinth Stewart-Resume.pdf"
+                download="Jascinth Stewart-Resume.pdf"
+                className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
+              >
+                Download Resume
+              </a>
 
             </div>
           </div>
